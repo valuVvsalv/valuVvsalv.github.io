@@ -1,0 +1,57 @@
+header{
+    background-color: antiquewhite;
+    height: 100px;
+    border: 1px solid #e70fba;
+    padding-left: 3px;
+}
+
+aside{
+    background-color: #e3a0b1;
+    height: 30px;
+    width: 1200px;
+    padding-left: 3px;
+    position: relative;
+    left: 50px;
+}
+
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: justify;
+}
+
+.titulo{
+    color:darkmagenta;
+    font-size: 20px;
+}
+
+
+p{
+    color:black;
+    font-size: 15px;
+}
+
+table,th,td{
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+
+th{
+    color: rgb(82, 10, 82);
+    background-color:peachpuff;
+}
+
+header h1{
+    color:rgb(221, 66, 175);
+}
+
+img{
+    float: left;
+    margin: 20px;
+}
+
+.imagen-personalizada{
+    width: 300px;
+    height: 400px;
+}
+
